@@ -1,3 +1,3 @@
 # dockerfile-example
 
-Dockerfile example.
+Dockerfile and multi stage dockerfile example.
